@@ -1,0 +1,20 @@
+{
+  "name": "rsa-encrypt_decrypy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakul232/RSA-encrypt_decrypy.git"
+  },
+  "author": "KAKUL SARMA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakul232/RSA-encrypt_decrypy/issues"
+  },
+  "homepage": "https://github.com/kakul232/RSA-encrypt_decrypy#readme"
+}
